@@ -1,0 +1,61 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+td {
+    border: 10px solid black;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+    border-collapse: collapse;
+}
+table {
+    border: 10px solid black;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+.white {
+    background-color: white;
+}
+.black {
+    background-color: black;
+}
+.blue {
+    background-color: blue;
+}
+.red {
+    background-color: red;
+}
+.orange {
+    background-color: orange;
+}
+.thin-white {
+    width: 50px;
+}
+.white-left {
+    height: 150px;
+}
+ .red-square {
+    width: 300px;
+    height: 300px;
+}
+.white-twins {
+    width: 100px;
+    height: 100px;
+}
+.two-whites {
+    width: 150px;
+}
+.thin-red {
+    width: 50px;
+}
+.bottom-left-white {
+    height: 50px;
+}
+.black-bottom {
+    height: 50px;
+}
+.bottom-thin-white {
+    height: 50px;
+}
